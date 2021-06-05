@@ -3,6 +3,8 @@
 The AsyncListDiffer can consume the values from a LiveData of List and present the data simply for an adapter. It computes differences in list contents via DiffUtil on a background thread as new List s are received. Use getCurrentList() to access the current List, and present its data objects.
 
 
+![image](https://user-images.githubusercontent.com/39657409/120897020-ce39cb00-c641-11eb-9b0d-f2356dbd8ebf.png)
+
 
 
 
